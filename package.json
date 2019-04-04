@@ -23,7 +23,7 @@
         "url": "https://github.com/cqcrytohub/bitcore-message.git"
     },
     "dependencies": {
-        "bitcore-lib": "https://github.com/cqcrytohub/yangcore-lib.git"
+        "bitcore-lib": "https://github.com/cqcrytohub/bithao-lib.git"
     },
     "devDependencies": {
         "bitcore-build": "https://github.com/bitchk-wallet/bitcore-build.git",
